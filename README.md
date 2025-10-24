@@ -3,7 +3,7 @@
 用来将 FBX 模型拆分成小模型的工具（基于带有网格的 FBX 节点）.
 
 编译需要用到fbxsdk(libfbxsdk.so),可从官网下载 https://www.autodesk.com/developer-network/platform-technologies/fbx-sdk-2019-2.
-
+修复版本
 # Usage
 
 ```sh
